@@ -13,7 +13,7 @@
 
 .msg { padding: 10px; background: #222; position: relative; }
 .msg h1 { color: #fff;  }
-.msg a { margin-left: 20px; background: #408814; color: white; padding: 4px 8px; text-decoration: none; }
+.msg a { margin-left: 20px; background: #408814; color: white; padding: 6px 10px; text-decoration: none; }
 .msg a:hover { background: #266400; }
 
 /* //-- body style overrides -- */
@@ -23,15 +23,15 @@ body { font-family: Roboto; color: #444; }
 /* //-- header, body */
 #hd { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc }
 #hd h2 { text-transform: uppercase; letter-spacing: 1px; }
-#bd, #ft { margin-bottom: 2em; }
+#bd, #ft { margin-bottom: 1.5em; }
 
 /* //-- core typography and style -- */
-#hd h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; }
-h2 { font-size: 165% ;color:rgb(8, 8, 90);}
-h3 { font-size: 150%;font-weight:550;}
+#hd h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 4px; }
+h2 { font-size: 155% ;color:rgb(8, 8, 90);}
+h3 { font-size: 140%;font-weight:550;}
 h4 {font-size:130%;}
 
-p { font-size: 128%; line-height: 18px; padding-right: 3em; }
+p { font-size: 128%; line-height: 19px; padding-right: 3em; }
 a { color: #40a0ee}
 a:hover { text-decoration: none; }
 li { line-height: 24px; border-bottom: 1px solid #ccc; }
